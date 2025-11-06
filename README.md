@@ -48,7 +48,7 @@ Some Weapons have a limit - WHICH IS NOT ALLOWED TO BE CHANGED. You know there's
 
 **Credit**
 
-[ZiO](https://gist.github.com/Zi0MIX)
+[ZiO](https://gist.github.com/Zi0MIX) - *Fixed version of first box patch*
 
-[romain_lu](https://www.twitch.tv/romain_lu)
+[romain_lu](https://www.twitch.tv/romain_lu) - *Weapon list*
 
