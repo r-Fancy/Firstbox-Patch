@@ -1,6 +1,6 @@
 **Describtion**
 
-This patch is used to get a specific set of weapons in a specific set of order. It is allowed to use for competition according to zwr rule set & community vote.
+This patch is used to get a specific set of weapons in a specific set of order. It is allowed to use for competition according to zwr rule set & community vote (EXCEPT Easter Egg speedruns).
 
 **How to use**
 1. Download [s1x](https://mega.nz/folder/oLAViLiZ#3xUbLir3T9AdB51FqdhPlQ) files.
